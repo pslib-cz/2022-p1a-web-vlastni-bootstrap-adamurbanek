@@ -1,0 +1,39 @@
+.h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.p {
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-link {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #222222;
+    font-size: 14px;
+    margin-left: 25px;
+}
+
+.custom-font {
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-custom {
+    color: #666666;
+}
+
+.bg-gold {
+    color: #DAA520;
+}
+
+.bg-custom {
+    background-color: #E6002B;
+}
+
+.btn-custom {
+    background-color: #E6002B;
+    color: #FFFFFF;
+}
